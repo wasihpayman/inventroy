@@ -5,11 +5,11 @@ Simple WIMS built with Laravel, Inertia.js, React and Material-UI.
 ## Features
 
 - Transactional Data:
-  - Inbound (Purchase Order)
-  - Outbound (Sales Order)
+  - Purchase Order
+  - Sales Order
   - Goods Receipt
   - Order Delivery
-- Master Data:
+- Full Data:
   - Product
   - Warehouse
   - Location
